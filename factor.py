@@ -13,4 +13,4 @@ fact = factorial(num)
 # Print the result
 print("Factorial of", num, "is", fact)
 
-#end of the program.
+#end of the program
